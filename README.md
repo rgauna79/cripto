@@ -1,7 +1,7 @@
 # Cripto
 
 **TODO: Add description**
-Example to get price of Bicoins in USD using API
+Example to get price of Bitcoins in USD using API
 
 ## Installation
 
